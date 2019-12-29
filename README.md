@@ -62,4 +62,4 @@ pip install pyzbar[scripts])
 
 # Anything else that might need clarification during validation:
 TODO  
-Try with differet hardwares and operating system beside raspi and ubuntu
+Try with differet hardwares and operating system beside raspi and ubuntu# netapp1
